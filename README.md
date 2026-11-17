@@ -4,12 +4,15 @@
 
 ## 下載
 
-- **最新版（2.5）**：[DrivePanel-latest.apk](https://raw.githubusercontent.com/yeziyang333-glitch/drivepanel/main/apk/DrivePanel-latest.apk)
+- **最新版（2.6）**：[DrivePanel-latest.apk](https://raw.githubusercontent.com/yeziyang333-glitch/drivepanel/main/apk/DrivePanel-latest.apk)
 - 歷史版本：`apk/` 資料夾
 
 已安裝 2.5 以上的版本會自動檢查更新（設定 → 關於 → 檢查更新）。
 
 ## 更新紀錄
+
+### 2.6
+- 測試版本：功能與 2.5 相同，用來測試自動更新
 
 ### 2.5
 - 新增檢查更新：每天自動檢查，有新版本可一鍵下載安裝
