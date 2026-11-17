@@ -2,6 +2,19 @@
 
 給機車族用的 Android 行車面板：一鍵開地圖／神盾測速、控制 YouTube Music、同步歌詞與浮動歌詞、天氣與降雨提醒。
 
-下載最新版：右側 **Releases**。
+## 下載
 
-個人製作的非官方小工具，與 Google、YouTube、神盾測速照相沒有任何關係。
+- **最新版（2.5）**：[DrivePanel-latest.apk](https://raw.githubusercontent.com/yeziyang333-glitch/drivepanel/main/apk/DrivePanel-latest.apk)
+- 歷史版本：`apk/` 資料夾
+
+已安裝 2.5 以上的版本會自動檢查更新（設定 → 關於 → 檢查更新）。
+
+## 更新紀錄
+
+### 2.5
+- 新增檢查更新：每天自動檢查，有新版本可一鍵下載安裝
+
+---
+個人製作的非官方小工具，與 Google、YouTube、神盾測速照相沒有任何關係。APK 未經 Play 商店審核，請自行評估後安裝。
+
+資料來源：歌詞 LRCLIB、歌手別名 MusicBrainz、天氣 Open-Meteo。

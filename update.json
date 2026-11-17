@@ -1,0 +1,7 @@
+{
+  "version": "2.5",
+  "versionCode": 19,
+  "apk": "https://raw.githubusercontent.com/yeziyang333-glitch/drivepanel/main/apk/DrivePanel-v2.5.apk",
+  "page": "https://github.com/yeziyang333-glitch/drivepanel",
+  "notes": "• 新增檢查更新：每天自動檢查，有新版本可一鍵下載安裝\n• 設定 → 關於 →「檢查更新」可手動檢查"
+}
