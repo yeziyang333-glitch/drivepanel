@@ -27,3 +27,8 @@
 個人製作的非官方小工具，與 Google、YouTube、神盾測速照相沒有任何關係。APK 未經 Play 商店審核，請自行評估後安裝。
 
 資料來源：歌詞 LRCLIB、歌手別名 MusicBrainz、天氣 Open-Meteo。
+
+
+---
+
+另一個 App：[連環鬧鐘](alarm/)（`alarm/apk/ChainAlarm-latest.apk`）
