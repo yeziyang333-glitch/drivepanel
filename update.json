@@ -1,7 +1,7 @@
 {
-  "version": "2.6",
-  "versionCode": 20,
-  "apk": "https://raw.githubusercontent.com/yeziyang333-glitch/drivepanel/main/apk/DrivePanel-v2.6.apk",
+  "version": "3.0",
+  "versionCode": 21,
+  "apk": "https://raw.githubusercontent.com/yeziyang333-glitch/drivepanel/main/apk/DrivePanel-v3.0.apk",
   "page": "https://github.com/yeziyang333-glitch/drivepanel",
-  "notes": "• 測試版本：功能與 2.5 相同，用來測試自動更新"
+  "notes": "• 騎車模式：行車面板可以當成手機桌面，騎車時按 Home 就回到面板\n• 一般模式：按 Home 自動回到原本的桌面，圖示和小工具不受影響\n• 快速設定新增「騎車模式」開關\n• 安全帽藍牙耳機連上自動進入騎車模式，斷線自動結束\n• 設定 → 騎車模式：設為預設桌面、選擇一般模式的桌面、選擇耳機"
 }

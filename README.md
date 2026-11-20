@@ -4,12 +4,18 @@
 
 ## 下載
 
-- **最新版（2.6）**：[DrivePanel-latest.apk](https://raw.githubusercontent.com/yeziyang333-glitch/drivepanel/main/apk/DrivePanel-latest.apk)
+- **最新版（3.0）**：[DrivePanel-latest.apk](https://raw.githubusercontent.com/yeziyang333-glitch/drivepanel/main/apk/DrivePanel-latest.apk)
 - 歷史版本：`apk/` 資料夾
 
 已安裝 2.5 以上的版本會自動檢查更新（設定 → 關於 → 檢查更新）。
 
 ## 更新紀錄
+
+### 3.0
+- 騎車模式：行車面板可以當成手機桌面，騎車時按 Home 就回到面板
+- 一般模式：按 Home 自動回到原本的桌面
+- 快速設定「騎車模式」開關
+- 安全帽藍牙耳機連上自動進入騎車模式，斷線自動結束
 
 ### 2.6
 - 測試版本：功能與 2.5 相同，用來測試自動更新
