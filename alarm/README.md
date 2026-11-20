@@ -14,5 +14,6 @@
 辦公日曆資料來源：政府資料開放平臺「中華民國政府行政機關辦公日曆表」，經 [ruyut/TaiwanCalendar](https://github.com/ruyut/TaiwanCalendar) 整理。
 
 ## 更新紀錄
+- 1.0.2（build 3）：修正鎖定時只顯示通知；realme 鎖定畫面顯示／背景彈出視窗提示
 - 1.0.1（build 2）：鎖定畫面直接亮起、往上滑關閉；拿掉安裝其他 App、要求忽略省電兩個權限（避免 Play 安全防護誤擋）
 - 1.0（build 1）：第一版
