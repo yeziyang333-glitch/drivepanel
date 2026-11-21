@@ -4,12 +4,15 @@
 
 ## 下載
 
-- **最新版（3.0）**：[DrivePanel-latest.apk](https://raw.githubusercontent.com/yeziyang333-glitch/drivepanel/main/apk/DrivePanel-latest.apk)
+- **最新版（3.0.1）**：[DrivePanel-latest.apk](https://raw.githubusercontent.com/yeziyang333-glitch/drivepanel/main/apk/DrivePanel-latest.apk)
 - 歷史版本：`apk/` 資料夾
 
 已安裝 2.5 以上的版本會自動檢查更新（設定 → 關於 → 檢查更新）。
 
 ## 更新紀錄
+
+### 3.0.1
+- 藍牙耳機連上時跳出「騎車模式已開啟」通知，點一下打開面板（Android 不允許背景直接開畫面）
 
 ### 3.0
 - 騎車模式：行車面板可以當成手機桌面，騎車時按 Home 就回到面板

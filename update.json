@@ -1,7 +1,7 @@
 {
-  "version": "3.0",
-  "versionCode": 21,
-  "apk": "https://raw.githubusercontent.com/yeziyang333-glitch/drivepanel/main/apk/DrivePanel-v3.0.apk",
+  "version": "3.0.1",
+  "versionCode": 22,
+  "apk": "https://raw.githubusercontent.com/yeziyang333-glitch/drivepanel/main/apk/DrivePanel-v3.0.1.apk",
   "page": "https://github.com/yeziyang333-glitch/drivepanel",
-  "notes": "• 騎車模式：行車面板可以當成手機桌面，騎車時按 Home 就回到面板\n• 一般模式：按 Home 自動回到原本的桌面，圖示和小工具不受影響\n• 快速設定新增「騎車模式」開關\n• 安全帽藍牙耳機連上自動進入騎車模式，斷線自動結束\n• 設定 → 騎車模式：設為預設桌面、選擇一般模式的桌面、選擇耳機"
+  "notes": "• 修正：藍牙耳機連上後，Android 不允許在背景直接打開面板。現在會同時跳出「騎車模式已開啟」通知，點一下就打開面板\n• 允許「全螢幕通知」後，手機鎖屏時連上耳機，解鎖就直接看到面板（設定 → 騎車模式 → 連上耳機時的提醒）"
 }
